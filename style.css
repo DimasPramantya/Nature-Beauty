@@ -1,0 +1,226 @@
+@font-face {
+    font-family: 'Andasia';
+    src: url('./font/Andasia.ttf') format('ttf'),
+        url('./font/Andasia.woff') format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('./font/TTNorms-Regular.otf') format('otf'),
+    url('./font/TTNorms-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Yeseva One';
+    src: url('./font/YesevaOne-Regular.ttf') format('ttf'),
+    url('./font/YesevaOne-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gagalin';
+    src: url('./font/Gagalin-Regular.otf') format('otf'),
+    url('./font/Gagalin-Regular.woff') format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
+
+body{
+    background-color: #eee9e3;
+}
+
+.green-text{
+    color: #606c38;
+}
+
+.font-oranienbaum{
+    font-family: 'Oranienbaum';
+    font-size: 20px;
+}
+
+.font-yesevaone{
+    font-family: 'Yeseva One', cursive;
+}
+
+.font-size-36{
+    font-size: 36px;
+}
+
+.color-283618{
+    color: #283618;
+}
+
+.color-524d4b{
+    color: #524d4b;
+}
+
+.font-ttnorms{
+    font-family: 'TT Norms';
+    font-variant-ligatures: none;
+}
+
+.logo{
+    color: #606c38;
+    font-family: 'Andasia';
+    font-size: 2.8em;
+}
+.form-card{
+    width: 65%;
+    background-color: #c9c4c0;
+    color: #606c38;
+}
+
+.form-title{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.w-65{
+    width: 65%;
+}
+
+.w-35{
+    width: 35%;
+}
+
+.col-4 img{
+    object-fit: cover;
+}
+
+.container .form-card-register{
+    width: 75%;
+}
+
+.bg-brown{
+    background-color: #eee9e3;
+}
+
+.py-6px{
+    padding: 6px 0;
+}
+
+.my-6px{
+    margin: 4px 0;
+}
+
+.ps-6px{
+    margin-left: 6px;
+}
+
+.gagalin{
+    font-family: 'Gagalin';
+}
+
+.moto{
+    font-size: 21px;
+    color: #606c38;
+}
+
+.mt-container-navbar{
+    margin-top: 20px;
+}
+
+.mt-40-percent{
+    margin-top: 40%;
+}
+
+.color-606c38{
+    color: #606c38;
+}
+
+.font-size-18{
+    font-size: 18px;
+}
+
+.font-size-39{
+    font-size: 39px;
+}
+
+.color-9a8330{
+    color: #9a8330;
+}
+
+.font-size-23{
+    font-size: 23px;
+}
+
+.font-robotocondensed{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.font-dmserifdisplay{
+    font-family: 'DM Serif Display', serif;
+}
+
+.font-size-32{
+    font-size: 32px;
+}
+
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.color-231f20{
+    color: #231f20;
+}
+
+.font-size-12{
+    font-size: 13px;
+}
+
+.font-agrandirregular{
+    font-family: sans-serif;
+}
+
+.img-product{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.img-single-product{
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.font-size-25{
+    font-size: 25px;
+}
+
+.bg-606c38{
+    background-color: #606c38;
+}
+
+.font-size-13{
+    font-size: 13;
+}
+
+.font-size-27{
+    font-size: 27px;
+}
+
+.font-size-16{
+    font-size: 16px;
+}
+
+.font-size-22{
+    font-size: 22px;
+}
+
+.nav-item:hover{
+    background-color: #969d7d;
+}
